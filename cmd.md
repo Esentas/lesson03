@@ -22,3 +22,12 @@ dir
 ```sh
 ls
 ```
+## удалить файл
+### windows
+``` sh
+del name_fail
+```
+### macos/linux
+``` sh
+rm name_fail
+```
