@@ -3,3 +3,13 @@
 ## как откыть терминал
 1. win+r
 2. прописать cd
+
+## как сменить директорию
+### windows
+```sh
+cd C:\folder_name
+```
+### macoc/linux
+```sh
+cd /folder_name
+```
