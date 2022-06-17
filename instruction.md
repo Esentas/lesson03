@@ -22,3 +22,6 @@
 ![orange](orange.jpg)
 это яблоко
 ![apple](apple.jpg)
+
+## web ссылки
+текст [пример ссылки](http://example.com "всплывающая подсказка")
