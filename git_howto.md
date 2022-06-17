@@ -35,3 +35,7 @@ git add (добавляем в гит новые команды)
 ```sh
 dir commit -m "dir added" (снова сохраняем и делаем коммит)
 ```
+3. **сохранение изменения файлов**
+```sh
+git commit a m "more texts add to first.txt" (добавили строку в файл first.txt)
+```
