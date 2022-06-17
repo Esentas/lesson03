@@ -12,3 +12,13 @@ git config global user.name
 ```sh
 git config global user.email
 ```
+## базовые операции
+1. **создание локальной копии главного репозитория**
+для macos/linux:
+```sh
+cd
+```
+для windows:
+```sh
+правойклавишей по каталогу и выбрать "git bash"
+```
