@@ -30,7 +30,8 @@ cd
 ```
 2. **добавление новых файлов**
 ```sh
-git add first.txt (git отслеживает новый файл)
+git add first.txt (git отслеживает новый файл) 
+> chenge
 ```
 ```sh
 git commit -m "my first commit" (сохраняем изменеия и делаем коммит)
